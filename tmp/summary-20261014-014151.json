@@ -1,0 +1,4 @@
+{
+  "summary": "Copied the Downloads MP4 into public/assets/hero-bg.mp4 and pointed the hero background video at that local file. Verified on localhost:5174 that it loads from /assets/hero-bg.mp4, plays, and covers the hero.",
+  "current_status": "Hero background is the local video file. Brand lockup is unchanged. No commit was made."
+}

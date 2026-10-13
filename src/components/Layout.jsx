@@ -7,8 +7,8 @@ const APP = "https://app.saleplay.co";
 function Brand() {
   return (
     <Link className="brand" to="/" aria-label="SalePlay">
-      <img className="mark" src="/assets/logo.svg" alt="SalePlay" />
-      <span className="word">SalePlay</span>
+      <img className="mark" src="/assets/logo.svg" alt="" />
+      <img className="wordmark" src="/assets/wordmark.svg" alt="SalePlay" />
     </Link>
   );
 }

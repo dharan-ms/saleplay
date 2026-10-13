@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the hero background video in src/pages/Home.jsx with hf_20260723_145606. Confirmed on localhost:5174 that the 1920x1080 clip loads, plays, loops, and covers the hero behind the headline.",
+  "current_status": "Hero background is the new CloudFront video. Brand lockup remains the teal mark and white wordmark. No commit was made."
+}

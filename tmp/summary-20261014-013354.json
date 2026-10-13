@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the gold Yellowtail header/footer wordmark with the teal chain mark plus the white SalePlay wordmark SVG so it matches the first screenshot. Verified both logo instances render on localhost:5174 and the header logo still links home.",
+  "current_status": "Hero video uses the requested CloudFront clip. Brand lockup now uses logo.svg and wordmark.svg. No commit was made."
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the hero background video in src/pages/Home.jsx with the new CloudFront MP4 (hf_20260702_051048). Verified on localhost:5174 that the video loads, plays, and fills the hero; other section videos were left unchanged.",
+  "current_status": "SalePlay marketing site is running locally. Hero background now uses the requested video. No commit was made."
+}
