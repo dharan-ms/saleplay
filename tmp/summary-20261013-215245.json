@@ -1,0 +1,4 @@
+{
+  "summary": "Added the CloudFront MP4 as a muted, looping, autoplaying hero background behind the existing headline, CTAs, character, and stat cards, with a dark gradient so the text stays readable. Verified in the browser that the video plays on desktop and a narrow viewport while the rings stay absolutely positioned and later sections remain unchanged.",
+  "current_status": "SalePlay is a Vite React site. The homepage hero now uses the provided video as its background. Remaining pages are still short matching shells, and further content changes are waiting on the user."
+}

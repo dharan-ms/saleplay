@@ -1,0 +1,4 @@
+{
+  "summary": "Added the supplied video as a full-bleed background behind the closing Stop Leaving Revenue to Chance section. It covers that block, plays muted and looping, and a light shade keeps the headline and button readable. The footer stays separate.",
+  "current_status": "The closing section now has its own video background. The hero and Micro Drills keep their videos, Get Started is a glowing dark gold pill, and the skill card stays transparent."
+}

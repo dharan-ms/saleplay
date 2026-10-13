@@ -1,0 +1,4 @@
+{
+  "summary": "Removed the 3D sales-rep character from the hero and quieted the headline accent from a gold gradient to a soft ivory. The three stat cards now stack on the right over the video instead of floating around the character. Confirmed in the browser that the image is gone.",
+  "current_status": "The hero is the background video, white headline, ivory emphasis line, and stat cards. The rest of the site stays black with colored important words. The user is still directing design changes step by step."
+}

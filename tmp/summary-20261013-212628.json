@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the static HTML site with a Vite React app. The homepage, shared layout, and inner routes (pricing, blog, pilot, product, comparisons, legal) now render through React Router. The production build succeeded and the app was checked in the browser at http://127.0.0.1:5173/ and /pricing. Next step is whatever the user wants changed in the React version.",
+  "current_status": "The site is a React app in src/, with styles in src/index.css and assets in public/assets. Run npm run dev to preview it. Old standalone HTML pages were removed."
+}

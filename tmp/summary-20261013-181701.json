@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt saleplay.co as a local static site: homepage in index.html with css/styles.css and js/main.js, brand assets, and starter pages for pricing, blog, pilot, product, comparisons, and legal links. Verified the hero, typing line, FAQ accordion, coaching stages, and micro-drill rotation in the browser at http://127.0.0.1:8765/index.html. Next step is the user's requested changes.",
+  "current_status": "Homepage clone is in place and serving locally. Secondary pages are short matching shells, not full clones of every live article. Waiting for the user to say what to change."
+}
